@@ -1,0 +1,16 @@
+/* Pc */
+@media (min-width: 64em)
+{
+    
+}
+
+/*Mobile & Tablet*/
+@media (max-width: 63.9375em) {
+}
+
+/* Mobile */
+@media (max-width:46.1875em) {
+    .mobile-col {
+        width: 100%;
+    }
+}
